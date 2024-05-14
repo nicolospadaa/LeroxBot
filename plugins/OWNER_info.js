@@ -18,7 +18,7 @@ function handler(m) {
     loading()    
     };
 
-handler.help = ['owner'];
+handler.help = ['𝑳𝛴𝑅𝛷𝑋'];
 handler.tags = ['main'];
 handler.command = ['owner', 'creator', 'creador', 'padroni', 'fgowner'];
 export default handler;
